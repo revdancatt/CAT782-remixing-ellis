@@ -1,4 +1,6 @@
 CAT782-remixing-ellis
 =====================
 
-Like the remixing Jeff Noon project but with more Warren Ellis and less Jeff Noon
+Remixing the books of Warren Ellis. Currently just using Markov Chains, but soon, more!
+
+See it in action: http://revdancatt.github.com/CAT782-remixing-ellis/
